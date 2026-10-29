@@ -19,8 +19,8 @@ A **skill** is a folder with a `SKILL.md` file (plus optional scripts and refere
 - [Documents & Office Files](#documents--office-files)
 - [Design & Frontend](#design--frontend)
 - [Writing & Communication](#writing--communication)
+- [Learning & Guidance](#learning--guidance)
 - [Meta: Building Skills](#meta-building-skills)
-- [Other Lists](#other-lists)
 
 Legend: ✅ = tried and verified by the maintainer.
 
@@ -61,13 +61,14 @@ Legend: ✅ = tried and verified by the maintainer.
 - [internal-comms](https://github.com/anthropics/skills/tree/main/skills/internal-comms) - Status reports, newsletters and other internal updates in house style.
 - [slack-gif-creator](https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator) - Makes animated GIFs sized for Slack.
 
+## Learning & Guidance
+
+- [academy-guide](https://github.com/anthropics/skills/tree/main/skills/academy-guide) - Points users to matching Claude Academy courses and tutorials when they ask how to use Claude.
+- [discernment-nudge](https://github.com/anthropics/skills/tree/main/skills/discernment-nudge) - Prompts users to double-check advice, drafts and estimates before acting on them.
+
 ## Meta: Building Skills
 
 - [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Create, test and improve your own skills.
-
-## Other Lists
-
-<!-- Link related awesome lists here. -->
 
 ---
 
