@@ -11,64 +11,9 @@ A **skill** is a folder with a `SKILL.md` file (plus optional scripts and refere
 
 **Install a skill (Claude Code):** copy the skill folder into `~/.claude/skills/` (personal) or `.claude/skills/` (per project), or install the plugin that ships it.
 
-## Contents
-
-- [Official](#official)
-- [Development & Workflow](#development--workflow)
-- [Testing & QA](#testing--qa)
-- [Documents & Office Files](#documents--office-files)
-- [Design & Frontend](#design--frontend)
-- [Writing & Communication](#writing--communication)
-- [Learning & Guidance](#learning--guidance)
-- [Meta: Building Skills](#meta-building-skills)
-
-Legend: ✅ = tried and verified by the maintainer.
-
----
-
 ## Official
 
 - [anthropics/skills](https://github.com/anthropics/skills) - Anthropic's official skills repository. ![stars](https://img.shields.io/github/stars/anthropics/skills?style=flat)
-
-## Development & Workflow
-
-- [mcp-builder](https://github.com/anthropics/skills/tree/main/skills/mcp-builder) - Guides you through building high-quality MCP servers.
-- [claude-api](https://github.com/anthropics/skills/tree/main/skills/claude-api) - Reference for building apps on the Claude API and Anthropic SDKs.
-
-## Testing & QA
-
-- [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Drives a real browser with Playwright to test local web apps.
-
-## Documents & Office Files
-
-- [docx](https://github.com/anthropics/skills/tree/main/skills/docx) - Create, edit and read Word documents, including tracked changes.
-- [xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx) - Build and edit spreadsheets with formulas and formatting.
-- [pptx](https://github.com/anthropics/skills/tree/main/skills/pptx) - Create and edit PowerPoint decks.
-- [pdf](https://github.com/anthropics/skills/tree/main/skills/pdf) - Extract, merge, split, fill and create PDFs.
-
-## Design & Frontend
-
-- [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) - Produces distinctive, production-grade frontend UIs instead of generic ones.
-- [web-artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) - Builds multi-component HTML artifacts with React and Tailwind.
-- [canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design) - Creates posters and visual art as PNG/PDF.
-- [algorithmic-art](https://github.com/anthropics/skills/tree/main/skills/algorithmic-art) - Generative art with p5.js.
-- [theme-factory](https://github.com/anthropics/skills/tree/main/skills/theme-factory) - Applies ready-made color and font themes to artifacts.
-- [brand-guidelines](https://github.com/anthropics/skills/tree/main/skills/brand-guidelines) - Example of encoding brand colors and typography as a skill.
-
-## Writing & Communication
-
-- [doc-coauthoring](https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring) - A structured workflow for co-writing docs with the agent.
-- [internal-comms](https://github.com/anthropics/skills/tree/main/skills/internal-comms) - Status reports, newsletters and other internal updates in house style.
-- [slack-gif-creator](https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator) - Makes animated GIFs sized for Slack.
-
-## Learning & Guidance
-
-- [academy-guide](https://github.com/anthropics/skills/tree/main/skills/academy-guide) - Points users to matching Claude Academy courses and tutorials when they ask how to use Claude.
-- [discernment-nudge](https://github.com/anthropics/skills/tree/main/skills/discernment-nudge) - Prompts users to double-check advice, drafts and estimates before acting on them.
-
-## Meta: Building Skills
-
-- [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Create, test and improve your own skills.
 
 ---
 
