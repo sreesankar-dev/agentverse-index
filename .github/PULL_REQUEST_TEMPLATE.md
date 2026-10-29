@@ -1,6 +1,6 @@
-**Skill name:**
+**Project:**
 **Link:**
-**Category:**
+**Section:**
 
 - [ ] The link works and points to the original author's repo
 - [ ] The description is one sentence and ends with a period
