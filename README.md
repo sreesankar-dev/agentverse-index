@@ -101,6 +101,7 @@ Frameworks for real-time agents you talk to.
 
 Tools any MCP-compatible agent (Claude Code, Cursor, Codex and others) can connect to.
 
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Lets agents drive a real browser with Playwright, using the page's accessibility tree instead of screenshots. ![stars](https://img.shields.io/github/stars/microsoft/playwright-mcp?style=flat)
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. Also ships a skill. ![stars](https://img.shields.io/github/stars/morluto/rea?style=flat)
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - Local code intelligence that links code, docs and infrastructure in a persistent graph, with change-aware test selection. ![stars](https://img.shields.io/github/stars/DeusData/codebase-memory-mcp?style=flat)
 
