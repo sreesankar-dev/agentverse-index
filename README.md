@@ -21,12 +21,22 @@ A **skill** is a folder with a `SKILL.md` file (plus optional scripts and refere
 
 ## Coding Workflow
 
+- [obra/superpowers](https://github.com/obra/superpowers) - A full software-development workflow as skills: brainstorm, plan, test-first, review. ![stars](https://img.shields.io/github/stars/obra/superpowers?style=flat)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your agent code like a lazy senior dev: less code, fewer tokens, tests where the risk is. Works with 20 agents. ![stars](https://img.shields.io/github/stars/DietrichGebert/ponytail?style=flat)
 
-## Security Audit
+## Codebase Understanding & Memory
+
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turns a codebase, with its docs and schemas, into a knowledge graph you can query. ![stars](https://img.shields.io/github/stars/Graphify-Labs/graphify?style=flat)
+
+## Writing
+
+- [blader/humanizer](https://github.com/blader/humanizer) - Removes signs of AI-generated writing from text. ![stars](https://img.shields.io/github/stars/blader/humanizer?style=flat)
+
+## Security
 
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - Multi-phase security audits with independently verified, machine-readable findings. ![stars](https://img.shields.io/github/stars/cloudflare/security-audit-skill?style=flat)
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Scans agent skills for prompt injection, data exfiltration and supply-chain risks before you install them. ![stars](https://img.shields.io/github/stars/NVIDIA/SkillSpector?style=flat)
+- [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) - Skills for solving CTF challenges: web exploitation, binary pwn, crypto, reverse engineering, forensics and OSINT. ![stars](https://img.shields.io/github/stars/ljagiello/ctf-skills?style=flat)
 
 ---
 
