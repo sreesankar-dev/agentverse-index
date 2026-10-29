@@ -1,8 +1,8 @@
-# AI Agents Index [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Agentverse Index [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated index of open-source AI agent building blocks: skills, agent frameworks, voice agents and MCP servers. Every entry links to the original repo, so you always get the latest version from the author.
 
-[![Link Check](https://github.com/sreesankar-dev/ai-agents-index/actions/workflows/link-check.yml/badge.svg)](https://github.com/sreesankar-dev/ai-agents-index/actions/workflows/link-check.yml)
+[![Link Check](https://github.com/sreesankar-dev/agentverse-index/actions/workflows/link-check.yml/badge.svg)](https://github.com/sreesankar-dev/agentverse-index/actions/workflows/link-check.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 ## What's in here
