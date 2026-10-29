@@ -19,6 +19,11 @@ A **skill** is a folder with a `SKILL.md` file (plus optional scripts and refere
 
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - All-in-one SEO skill for Claude Code: technical audits, schema, E-E-A-T, AI search (GEO), backlinks and local SEO. ![stars](https://img.shields.io/github/stars/AgriciDaniel/claude-seo?style=flat)
 
+## Security Audit
+
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - Multi-phase security audits with independently verified, machine-readable findings. ![stars](https://img.shields.io/github/stars/cloudflare/security-audit-skill?style=flat)
+- [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Scans agent skills for prompt injection, data exfiltration and supply-chain risks before you install them. ![stars](https://img.shields.io/github/stars/NVIDIA/SkillSpector?style=flat)
+
 ---
 
 ## Contributing
