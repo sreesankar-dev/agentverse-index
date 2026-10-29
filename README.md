@@ -37,6 +37,7 @@ A **skill** is a folder with a `SKILL.md` file (plus optional scripts and refere
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - Multi-phase security audits with independently verified, machine-readable findings. ![stars](https://img.shields.io/github/stars/cloudflare/security-audit-skill?style=flat)
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Scans agent skills for prompt injection, data exfiltration and supply-chain risks before you install them. ![stars](https://img.shields.io/github/stars/NVIDIA/SkillSpector?style=flat)
 - [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) - Skills for solving CTF challenges: web exploitation, binary pwn, crypto, reverse engineering, forensics and OSINT. ![stars](https://img.shields.io/github/stars/ljagiello/ctf-skills?style=flat)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries (MCP server + skill). ![stars](https://img.shields.io/github/stars/morluto/rea?style=flat)
 
 ---
 
