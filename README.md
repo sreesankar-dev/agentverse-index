@@ -15,6 +15,10 @@ A **skill** is a folder with a `SKILL.md` file (plus optional scripts and refere
 
 - [anthropics/skills](https://github.com/anthropics/skills) - Anthropic's official skills repository. ![stars](https://img.shields.io/github/stars/anthropics/skills?style=flat)
 
+## SEO & Marketing
+
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - All-in-one SEO skill for Claude Code: technical audits, schema, E-E-A-T, AI search (GEO), backlinks and local SEO. ![stars](https://img.shields.io/github/stars/AgriciDaniel/claude-seo?style=flat)
+
 ---
 
 ## Contributing
