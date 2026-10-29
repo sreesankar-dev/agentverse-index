@@ -27,6 +27,7 @@ A **skill** is a folder with a `SKILL.md` file (plus optional scripts and refere
 ## Codebase Understanding & Memory
 
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turns a codebase, with its docs and schemas, into a knowledge graph you can query. ![stars](https://img.shields.io/github/stars/Graphify-Labs/graphify?style=flat)
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - Local code intelligence that links code, docs and infrastructure in a persistent graph, with change-aware test selection (MCP server). ![stars](https://img.shields.io/github/stars/DeusData/codebase-memory-mcp?style=flat)
 
 ## Writing
 
