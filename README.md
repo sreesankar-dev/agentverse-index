@@ -2,7 +2,7 @@
 
 > A curated list of skills for AI coding agents: Claude Code, Claude.ai, Codex, Cursor and friends. Every entry links to the original repo, so you always get the latest version from the author.
 
-[![Link Check](https://github.com/sreesankar362/agent-skills-index/actions/workflows/link-check.yml/badge.svg)](https://github.com/sreesankar362/agent-skills-index/actions/workflows/link-check.yml)
+[![Link Check](https://github.com/sreesankar-dev/agent-skills-index/actions/workflows/link-check.yml/badge.svg)](https://github.com/sreesankar-dev/agent-skills-index/actions/workflows/link-check.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 ## What is a skill?
